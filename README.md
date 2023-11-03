@@ -13,10 +13,8 @@
 </a> <a href="https://tailwindcss.com/">
 <img alt="TWC" src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" height="24">
 </a>
-
-<br>
-
-<a href=""><img src="https://img.shields.io/badge/version-0.0.1-231103?" height="22" alt="Version"/></a>
+<br><br>
+<a href=""><img src="https://img.shields.io/badge/version-0.0.2-231103?" height="22" alt="Version"/></a>
 
 || [Notas de versão](#section-changelog)  || [Autores](#section-autores) ||
 
@@ -27,6 +25,16 @@
 ## Notas de versão
 
 </a>
+
+### v0.0.2.231103
+
+- Feito dois controllers para funções especificas.
+- Algumas funcionalidades adicionadas.
+- Adicionado uma seção com o card de cada playlist.
+- Ajustes na sidebar.
+- Criação da barra de navegação.
+
+##
 
 ### v0.0.1.231103
 

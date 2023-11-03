@@ -1,4 +1,5 @@
 import Sidebar from '@/components/Sidebar';
+import Overlay from '@/components/Overlay';
 import { Inter } from 'next/font/google'
 
 
@@ -8,6 +9,7 @@ export default function Home() {
   return (<>
   
   <Sidebar />
-
-  </>)
+  <Overlay />
+  
+   </>)
 }
