@@ -1,5 +1,5 @@
-import { GoHomeFill } from "react-icons/Go";
-import { BsSearch } from "react-icons/Bs";
+import { GoHomeFill } from "react-icons/go";
+import { BsSearch } from "react-icons/bs";
 
 export default function Sidebar() {
   return (
