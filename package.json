@@ -1,7 +1,6 @@
 {
   "name": "spotify_layout",
   "author": "RRyanDEV",
-  "version": "0.0.1",
   "private": false,
   "scripts": {
     "dev": "next dev",

@@ -1,16 +1,12 @@
-export default function PaperStripCard({ cards, ...props }) {
+export default function PaperStripCard({ key, src, ...props }) {
   return (
-    <>
-      {cards.map((card, i) => (
-        <div key={i}>
-          <iframe
-            class="h-20"
-            src={`${card.url}`}
-            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-            loading="lazy"
-          ></iframe>
-        </div>
-      ))}
-    </>
+    <div key={key}>
+      <iframe
+        class="h-20"
+        src={src}
+        allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+        loading="lazy"
+      ></iframe>
+    </div>
   );
 }

@@ -14,7 +14,7 @@
 <img alt="TWC" src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" height="24">
 </a>
 <br><br>
-<a href=""><img src="https://img.shields.io/badge/version-0.0.2-231103?" height="22" alt="Version"/></a>
+<a href=""><img src="https://img.shields.io/badge/version-1.0.0-231107?" height="22" alt="Version"/></a>
 
 || [Notas de versão](#section-changelog)  || [Autores](#section-autores) ||
 
@@ -25,6 +25,14 @@
 ## Notas de versão
 
 </a>
+
+### v1.0.0.231107
+
+**Finalização do projeto.**
+
+<p>Acesse o link do projeto na descrição do repositório.</p>
+
+##
 
 ### v0.0.2.231103
 
